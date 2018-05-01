@@ -19,3 +19,6 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 6. With your server running, visit the site: `http://localhost:8000`.
 
 
+## Notes
+
+The service worker config is tight to the creation of the app by `create-react-app`, I customized the service worker directly at the build directory in order to customised the service worker.
