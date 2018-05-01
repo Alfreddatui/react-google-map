@@ -1,0 +1,15 @@
+.one-location {
+  color: #fff;
+  width: 100%;
+  text-align: left;
+  padding: 4% 0px;
+  font-size: 1em;
+  padding-left: 3%;
+}
+
+.one-location:hover {
+  cursor: pointer;
+  background-color: #32475B;
+  color: #cc0000;
+  border-radius: 10px;
+}

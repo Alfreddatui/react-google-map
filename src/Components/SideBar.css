@@ -1,0 +1,26 @@
+.side-bar {
+  background-color: #12273B;
+  display: inline-block;
+  width: 25%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+@media only screen and (max-width: 800px) {
+  .side-bar {
+    width: 55%;
+  }
+}
+
+@media only screen and (max-width: 675px) {
+  .side-bar {
+    width: 65%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .side-bar {
+    width: 85%;
+  }
+}

@@ -1,0 +1,11 @@
+.info-window-text {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.info-window-text a, .info-window-text p {
+  margin: 0;
+  margin-right: 10px;
+  font-weight: 400;
+}

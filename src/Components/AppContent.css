@@ -1,0 +1,8 @@
+.app-content {
+  position: relative;
+  margin-top: 50px;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
